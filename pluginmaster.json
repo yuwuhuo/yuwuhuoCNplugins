@@ -1,24 +1,46 @@
 [
     {
-        "Author": "UnknownX\uff0cyuwuhuo\uff08\u672c\u5730\u5316\uff09",
+        "Author": "UnknownX",
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "9.9.9.9",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "ApplicableVersion": "any",
+        "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1690390829"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "ReAction",
-        "Punchline": "\u6218\u6597\u4e2d\u7684QoL",
-        "Description": "\u6539\u8fdb\u6218\u6597\u7684\u5c0f\u63d2\u4ef6\u3002\u95f2\u9c7c\u5c0f\u5e97\u6539json\u5012\u5356\u672c\u63d2\u4ef6\u5fc5\u6b7b\u5168\u5bb6\uff0c\u5982\u679c\u4f60\u662f\u95f2\u9c7c\u8d2d\u4e70\uff0c\u8bf7\u9000\u6b3e\u4e3e\u62a5\u3002",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction",
         "AssemblyVersion": "9.9.9.9",
-        "RepoUrl": "https://github.com/yuwuhuo/ReAction",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "ApplicableVersion": "any",
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690382070"
+        "LastUpdate": "1690390829"
     }
 ]
