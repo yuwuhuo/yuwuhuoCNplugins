@@ -1,18 +1,17 @@
-﻿content = content.encode('utf8')[3:].decode('utf8')
-{
-  "Author": "UnknownX，yuwuhuo（本地化）",
+﻿{
+  "Author": "UnknownX",
   "Name": "Cammy",
-  "Punchline": "可自定义程度很高的登月仪",
-  "Description": "开机自启登月仪器，会和某插件的视距冲突闪退",
+  "Punchline": "A simple editor for the game's camera settings",
+  "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
   "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
   "ImageUrls": [
     "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
   ],
-  "RepoUrl": "https://github.com/yuwuhuo/Cammy",
+  "RepoUrl": "https://github.com/UnknownX7/Cammy",
   "CategoryTags": [
     "utility"
   ],
   "InternalName": "Cammy",
-  "AssemblyVersion": "0.7.2.6",
-  "Changelog": "增加了拍照用的镜头功能。"
+  "AssemblyVersion": "9.9.9.9",
+  "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting"
 }
