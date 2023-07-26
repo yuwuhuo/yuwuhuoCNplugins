@@ -1,0 +1,17 @@
+﻿{
+    "Author": "UnknownX，yuwuhuo（本地化）",
+    "Name": "ReAction",
+    "Punchline": "战斗中的QoL",
+    "Description": "改进战斗的小插件。闲鱼小店改json倒卖本插件必死全家，如果你是闲鱼购买，请退款举报。",
+    "IconUrl": "",
+    "ImageUrls": [
+        ""
+    ],
+    "RepoUrl": "https://github.com/yuwuhuo/ReAction",
+    "CategoryTags": [
+        "jobs"
+    ],
+    "InternalName": "ReAction",
+    "AssemblyVersion": "9.9.9.9",
+    "Changelog": ""
+}
