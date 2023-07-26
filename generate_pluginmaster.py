@@ -29,7 +29,7 @@ TRIMMED_KEYS = [
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
-    'DalamudApiLevel',
+    'DalamudApiLevel', 
     'LoadPriority',
     'IconUrl',
     'ImageUrls',
@@ -42,7 +42,7 @@ def main():
     # trim the manifests
     master = [trim_manifest(manifest) for manifest in master]
 
-    # convert the list of manifests into a master list
+    # convert the list o2anifests into a master list
     add_extra_fields(master)
 
     # write the master
