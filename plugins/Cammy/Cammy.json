@@ -1,4 +1,5 @@
-﻿{
+﻿content = content.encode('utf8')[3:].decode('utf8')
+{
   "Author": "UnknownX，yuwuhuo（本地化）",
   "Name": "Cammy",
   "Punchline": "可自定义程度很高的登月仪",

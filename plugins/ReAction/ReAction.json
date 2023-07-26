@@ -1,3 +1,4 @@
+content = content.encode('utf8')[3:].decode('utf8')
 {
     "Author": "UnknownX，yuwuhuo（本地化）",
     "Name": "ReAction",
