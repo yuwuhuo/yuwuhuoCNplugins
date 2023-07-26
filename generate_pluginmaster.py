@@ -13,7 +13,7 @@ from zipfile import ZipFile, ZIP_DEFLATED
         line = json.loads(line)
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://github.com/uiharuayako/PantsPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
