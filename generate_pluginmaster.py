@@ -4,6 +4,13 @@ from time import time
 from sys import argv
 from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
+ 		line = fr.readline().strip()
+ 		
+		#  加入下面两行代码，去掉BOM
+        if line.startswith(u'\ufeff'):
+            line = line.encode('utf8')[3:].decode('utf8')
+        
+        line = json.loads(line)
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
 DOWNLOAD_URL = 'https://github.com/uiharuayako/PantsPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
