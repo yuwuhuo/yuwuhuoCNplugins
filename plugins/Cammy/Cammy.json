@@ -1,0 +1,17 @@
+﻿{
+  "Author": "UnknownX，yuwuhuo（本地化）",
+  "Name": "Cammy",
+  "Punchline": "可自定义程度很高的登月仪",
+  "Description": "开机自启登月仪器，会和某插件的视距冲突闪退",
+  "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+  ],
+  "RepoUrl": "https://github.com/yuwuhuo/Cammy",
+  "CategoryTags": [
+    "utility"
+  ],
+  "InternalName": "Cammy",
+  "AssemblyVersion": "0.7.2.6",
+  "Changelog": "增加了拍照用的镜头功能。"
+}
