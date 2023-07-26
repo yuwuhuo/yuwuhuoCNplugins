@@ -1,7 +1,9 @@
 import json
 import os
+from time import time
+from sys import argv
 from os.path import getmtime
-from zipfile import ZipFile
+from zipfile import ZipFile, ZIP_DEFLATED
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
 DOWNLOAD_URL = 'https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
@@ -33,7 +35,6 @@ TRIMMED_KEYS = [
     'ImageUrls',
 ]
 
-
 def main():
     # extract the manifests from inside the zip files
     master = extract_manifests()
@@ -50,9 +51,7 @@ def main():
     # update the LastUpdated field in master
     last_updated()
 
-
 def extract_manifests():
-    global plugin_name
     manifests = []
 
     for dirpath, dirnames, filenames in os.walk('./plugins'):
@@ -61,7 +60,7 @@ def extract_manifests():
         # 查找 JSON 文件并取文件名作为 plugin_name
         for file in filenames:
             if file.endswith('.json'):
-                plugin_name: str = file[:-5]  # 去掉后缀 ".json"
+                plugin_name = file[:-5]  # 去掉后缀 ".json"
                 break
         latest_zip = f'{dirpath}/latest.zip'
         with ZipFile(latest_zip) as z:
@@ -69,7 +68,6 @@ def extract_manifests():
             manifests.append(manifest)
 
     return manifests
-
 
 def add_extra_fields(manifests):
     for manifest in manifests:
@@ -86,16 +84,13 @@ def add_extra_fields(manifests):
                     manifest[k] = manifest[source]
         manifest['DownloadCount'] = 0
 
-
 def write_master(master):
     # write as pretty json
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
 
-
 def trim_manifest(plugin):
     return {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
-
 
 def last_updated():
     with open('pluginmaster.json') as f:
@@ -110,7 +105,6 @@ def last_updated():
 
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
-
 
 if __name__ == '__main__':
     main()
