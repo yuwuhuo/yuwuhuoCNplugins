@@ -2,11 +2,15 @@
   "Author": "Caraxi，yuwuhuo（本地化）",
   "Name": "Party List",
   "InternalName": "Party List",
-  "AssemblyVersion": "9.9.9.9",
-  "Description": "修改小队列表",
+  "AssemblyVersion": "0.3.4.3",
+  "Description": "修改小队列表的小插件,/playout呼出插件界面",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yuwuhuo/PartyListLayout",
   "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Customize the layout of the party list."
+  "Punchline": "Customize the layout of the party list.",
+  "AcceptsFeedback": true
 }
