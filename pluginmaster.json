@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690430983"
+        "LastUpdate": "1690431201"
     },
     {
         "Author": "UnknownX",
@@ -41,16 +41,16 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690430983"
+        "LastUpdate": "1690431201"
     },
     {
         "Author": "Caraxi\uff0cyuwuhuo\uff08\u672c\u5730\u5316\uff09",
         "Name": "Party List",
         "Punchline": "Customize the layout of the party list.",
-        "Description": "\u4fee\u6539\u5c0f\u961f\u5217\u8868\u7684\u5c0f\u63d2\u4ef6",
-        "InternalName": "PartyListLayout",
-        "AssemblyVersion": "0.3.4.3",
-        "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
+        "Description": "\u4fee\u6539\u5c0f\u961f\u5217\u8868",
+        "InternalName": "Party List",
+        "AssemblyVersion": "9.9.9.9",
+        "RepoUrl": "https://github.com/yuwuhuo/PartyListLayout",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
@@ -60,7 +60,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690430983"
+        "LastUpdate": "1690431201"
     },
     {
         "Author": "NightmareXIV",
@@ -79,6 +79,6 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690430983"
+        "LastUpdate": "1690431201"
     }
 ]
