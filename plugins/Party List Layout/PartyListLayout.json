@@ -6,7 +6,7 @@
   "Description": "修改小队列表的小插件",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Customize the layout of the party list."
 }
