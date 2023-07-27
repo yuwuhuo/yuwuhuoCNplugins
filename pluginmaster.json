@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690429888"
+        "LastUpdate": "1690430439"
     },
     {
         "Author": "UnknownX",
@@ -41,7 +41,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690429888"
+        "LastUpdate": "1690430439"
     },
     {
         "Author": "Caraxi\uff0cyuwuhuo\uff08\u672c\u5730\u5316\uff09",
@@ -52,7 +52,7 @@
         "AssemblyVersion": "0.3.4.3",
         "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
         "IsHide": false,
@@ -60,7 +60,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690429888"
+        "LastUpdate": "1690430439"
     },
     {
         "Author": "NightmareXIV",
@@ -79,6 +79,6 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690429888"
+        "LastUpdate": "1690430439"
     }
 ]
