@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690428903"
+        "LastUpdate": "1690429888"
     },
     {
         "Author": "UnknownX",
@@ -41,7 +41,26 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690428903"
+        "LastUpdate": "1690429888"
+    },
+    {
+        "Author": "Caraxi\uff0cyuwuhuo\uff08\u672c\u5730\u5316\uff09",
+        "Name": "Party List Layout",
+        "Punchline": "Customize the layout of the party list.",
+        "Description": "\u4fee\u6539\u5c0f\u961f\u5217\u8868\u7684\u5c0f\u63d2\u4ef6",
+        "InternalName": "PartyListLayout",
+        "AssemblyVersion": "0.3.4.3",
+        "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1690429888"
     },
     {
         "Author": "NightmareXIV",
@@ -60,6 +79,6 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690428903"
+        "LastUpdate": "1690429888"
     }
 ]
