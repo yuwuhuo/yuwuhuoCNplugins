@@ -1,13 +1,16 @@
 [
     {
-        "Author": "UnknownX",
+        "Author": "UnknownX,yuwuhuo\u672c\u5730\u5316",
         "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Punchline": "\u7b80\u5355\u955c\u5934\u7f16\u8f91",
+        "Description": "\u767b\u6708\u4eea\u5668",
         "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
         "InternalName": "Cammy",
-        "AssemblyVersion": "9.9.9.9",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "AssemblyVersion": "2.1.0.7",
+        "RepoUrl": "https://github.com/yuwuhuo/Cammy",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
@@ -15,11 +18,10 @@
         "DownloadLinkInstall": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "ApplicableVersion": "any",
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690443446"
+        "LastUpdate": "1690444003"
     },
     {
         "Author": "UnknownX",
@@ -41,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690443446"
+        "LastUpdate": "1690444003"
     },
     {
         "Author": "Caraxi\uff0cyuwuhuo\uff08\u672c\u5730\u5316\uff09",
@@ -60,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690443446"
+        "LastUpdate": "1690444003"
     },
     {
         "Author": "NightmareXIV",
@@ -79,6 +81,6 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690443446"
+        "LastUpdate": "1690444003"
     }
 ]
