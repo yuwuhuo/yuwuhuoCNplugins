@@ -1,0 +1,19 @@
+{
+  "Author": "ocealot，yuwuhuo（本地化）",
+  "Name": "JobBars",
+  "InternalName": "JobBars",
+  "AssemblyVersion": "1.2.3.8",
+  "Description": "添加更多的职业量谱，团副冷却，减伤监控等",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/0ceal0t/JobBars",
+  "Tags": [
+    "UI",
+    "Bars"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Extra job gauges",
+  "AcceptsFeedback": true
+}
