@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690423819"
+        "LastUpdate": "1690428903"
     },
     {
         "Author": "UnknownX",
@@ -41,26 +41,7 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690423819"
-    },
-    {
-        "Author": "Caraxi",
-        "Name": "Party List Layout",
-        "Punchline": "Customize the layout of the party list.",
-        "Description": "Customize the layout of the party list.",
-        "InternalName": "PartyListLayout",
-        "AssemblyVersion": "0.3.4.3",
-        "RepoUrl": "https://github.com/Caraxi/PartyListLayout",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/Party List Layout/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1690423819"
+        "LastUpdate": "1690428903"
     },
     {
         "Author": "NightmareXIV",
@@ -79,6 +60,6 @@
         "DownloadLinkTesting": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/yuwuhuo/yuwuhuoCNplugins/raw/master/plugins/DSR Toolbox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690423819"
+        "LastUpdate": "1690428903"
     }
 ]
