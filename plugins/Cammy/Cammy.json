@@ -1,17 +1,23 @@
-﻿{
-  "Author": "UnknownX",
+{
+  "Author": "UnknownX,yuwuhuo本地化",
   "Name": "Cammy",
-  "Punchline": "A simple editor for the game's camera settings",
-  "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-  "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-  "ImageUrls": [
-    "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-  ],
-  "RepoUrl": "https://github.com/UnknownX7/Cammy",
+  "InternalName": "Cammy",
+  "AssemblyVersion": "2.1.0.7",
+  "Description": "登月仪器",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/yuwuhuo/Cammy",
   "CategoryTags": [
     "utility"
   ],
-  "InternalName": "Cammy",
-  "AssemblyVersion": "9.9.9.9",
-  "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting"
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+  "Punchline": "简单镜头编辑",
+  "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+  "AcceptsFeedback": true
 }
