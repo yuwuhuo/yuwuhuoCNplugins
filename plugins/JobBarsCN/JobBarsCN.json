@@ -1,0 +1,19 @@
+{
+  "Author": "ocealot，yuwuhuo(本地化)",
+  "Name": "JobBars",
+  "InternalName": "JobBarsCN",
+  "AssemblyVersion": "1.2.3.6",
+  "Description": "增加额外的技能量谱，减伤监控，团辅监控",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/yuwuhuo/JobBars",
+  "Tags": [
+    "UI",
+    "Bars"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "更多的技能量谱",
+  "AcceptsFeedback": true
+}
